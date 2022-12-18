@@ -1,2 +1,2 @@
-nohub airflow scheduler &
+nohup airflow scheduler &
 airflow webserver
